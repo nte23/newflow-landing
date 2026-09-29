@@ -103,7 +103,31 @@
   2880,
   1395
  ],
+ "horizon-far": [
+  2880,
+  1920
+ ],
+ "horizon-near": [
+  2880,
+  1920
+ ],
+ "horizon-sky": [
+  2880,
+  1920
+ ],
  "horizon-tall": [
+  1536,
+  2304
+ ],
+ "horizon-tall-far": [
+  1536,
+  2304
+ ],
+ "horizon-tall-near": [
+  1536,
+  2304
+ ],
+ "horizon-tall-sky": [
   1536,
   2304
  ],
@@ -128,6 +152,14 @@
   3815
  ],
  "problem": [
+  2304,
+  1920
+ ],
+ "problem-letters": [
+  2304,
+  1920
+ ],
+ "problem-room": [
   2304,
   1920
  ],
